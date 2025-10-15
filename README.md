@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dikshitha D</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India,whos interested in game developing domain</h3>
 
 - 📫 How to reach me **dikshitha193@gmail.com**
 
